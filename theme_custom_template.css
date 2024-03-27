@@ -39,7 +39,7 @@
 
 .reportTable {
   font-family: Open Sans,Helvetica,Arial,sans-serif;
-  font-size: 14px;
+  font-size: 11px;
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
   border-spacing: 3px;
@@ -54,9 +54,9 @@
   border: 1px solid #CCCCCC; 
   border-bottom: 1px solid #CCCCCC !important;
   font-weight: bold;
-  /* font-size: 12px; */
+  font-size: 10px; 
   /* height: 25px; */
-  padding: 4px;
+  /* padding: 4px; */
 
   /* Add customization here  */
 
