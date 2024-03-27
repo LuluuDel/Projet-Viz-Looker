@@ -74,6 +74,14 @@
 
 }
 
+.reportTable th.left,
+.reportTable td.left {
+    background-color: #242837;
+    color: white; /* pour changer la couleur du texte en blanc */
+    font-weight: bold; /* pour rendre le texte en gras */
+}
+
+
 .left {
   text-align: left;
 
