@@ -74,10 +74,8 @@
 
 }
 
-.reportTable th.left:first-child,
-.reportTable th.left:last-child,
-.reportTable td.left:first-child,
-.reportTable td.left:last-child {
+.reportTable th.left-header,
+.reportTable td.left-header {
     background-color: #242837;
     color: white; /* pour changer la couleur du texte en blanc */
     font-weight: bold; /* pour rendre le texte en gras */
