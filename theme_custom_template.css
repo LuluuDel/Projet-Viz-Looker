@@ -79,8 +79,9 @@
     background-color: #242837;
     color: white; /* pour changer la couleur du texte en blanc */
     font-weight: bold; /* pour rendre le texte en gras */
-    padding: 5px
-    font-size: 10px
+    padding: 3px;
+    font-size: 10px;
+    margin: 0;
 }
 
 
